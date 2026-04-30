@@ -1,0 +1,154 @@
+[
+  {
+    "id": "gd-online",
+    "title": "Geometry Dash Online",
+    "description": "Jump and fly through danger in this rhythm-based action platformer!",
+    "iframeUrl": "https://geometry-dash.io/game/geometry-dash-online/",
+    "thumbnail": "https://geometry-dash.io/wp-content/uploads/2023/10/geometry-dash-online.png",
+    "category": "Platformer"
+  },
+  {
+    "id": "slope-v2",
+    "title": "Slope Extreme",
+    "description": "Speed down the slope and avoid obstacles in this high-paced tunnel runner.",
+    "iframeUrl": "https://kdata1.com/2020/05/slope/",
+    "thumbnail": "https://classroom-6x.github.io/slope.webp",
+    "category": "Action"
+  },
+  {
+    "id": "1v1-lol",
+    "title": "1v1.LOL",
+    "description": "Building and shooting game. Show your skills in this competitive battle royale.",
+    "iframeUrl": "https://1v1.lol/",
+    "thumbnail": "https://1v1.lol/assets/img/logo.png",
+    "category": "Action"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "description": "Dash as fast as you can through the subway tracks!",
+    "iframeUrl": "https://poki.com/en/g/subway-surfers",
+    "thumbnail": "https://img.vxdn.net/c/600/subway-surfers.webp",
+    "category": "Arcade"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "description": "The perfect game for the armchair quarterback to finally prove a point.",
+    "iframeUrl": "https://game316024.konggames.com/gamez/0031/6024/live/index.html",
+    "thumbnail": "https://retrobowl.me/img/retro-bowl.png",
+    "category": "Sports"
+  },
+  {
+    "id": "minecraft-classic",
+    "title": "Minecraft Classic",
+    "description": "The original creative building experience. Build anything you can imagine.",
+    "iframeUrl": "https://classic.minecraft.net/",
+    "thumbnail": "https://classic.minecraft.net/assets/logo.png",
+    "category": "Creative"
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "description": "Live a whole life in minutes. How will you live yours?",
+    "iframeUrl": "https://bitlifeonline.io/game/bitlife-life-simulator/",
+    "thumbnail": "https://bitlifeonline.io/wp-content/uploads/2023/12/bitlife.png",
+    "category": "Simulation"
+  },
+  {
+    "id": "ovo",
+    "title": "OvO",
+    "description": "Fast-paced platformer using parkour and momentum to beat levels.",
+    "iframeUrl": "https://dedragames.com/games/ovo/",
+    "thumbnail": "https://dedragames.com/games/ovo/icon.png",
+    "category": "Platformer"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "description": "Speed through tunnels and avoid obstacles at high speeds.",
+    "iframeUrl": "https://poki.com/en/g/tunnel-rush",
+    "thumbnail": "https://img.vxdn.net/c/600/tunnel-rush.webp",
+    "category": "Arcade"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The ultimate idle game. Build your cookie empire.",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/",
+    "thumbnail": "https://orteil.dashnet.org/cookieclicker/img/cookieIcon.png",
+    "category": "Idle"
+  },
+  {
+    "id": "paper-io-2",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible and beat the competition.",
+    "iframeUrl": "https://paper-io.com/",
+    "thumbnail": "https://paper-io.com/img/share.png",
+    "category": "IO"
+  },
+  {
+    "id": "smash-karts",
+    "title": "Smash Karts",
+    "description": "3D multiplayer kart battle game. Drive fast, blow up your friends.",
+    "iframeUrl": "https://smashkarts.io/",
+    "thumbnail": "https://smashkarts.io/assets/images/share.jpg",
+    "category": "Action"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road? Find out in this endless runner.",
+    "iframeUrl": "https://poki.com/en/g/crossy-road",
+    "thumbnail": "https://img.vxdn.net/c/600/crossy-road.webp",
+    "category": "Arcade"
+  },
+  {
+    "id": "moto-x3m",
+    "title": "Moto X3M",
+    "description": "The ultimate bike racing game. Master the levels and perform stunts.",
+    "iframeUrl": "https://poki.com/en/g/moto-x3m",
+    "thumbnail": "https://img.vxdn.net/c/600/moto-x3m.webp",
+    "category": "Sports"
+  },
+  {
+    "id": "fnf",
+    "title": "Friday Night Funkin'",
+    "description": "A rhythm game where you battle for your life and your girlfriend.",
+    "iframeUrl": "https://ninja-muffin24.itch.io/funkin",
+    "thumbnail": "https://img.vxdn.net/c/600/friday-night-funkin.webp",
+    "category": "Music"
+  },
+  {
+    "id": "cluster-rush",
+    "title": "Cluster Rush",
+    "description": "Jump from truck to truck in this fast-paced platformer.",
+    "iframeUrl": "https://cluster-rush.github.io/",
+    "thumbnail": "https://cluster-rush.github.io/logo.png",
+    "category": "Action"
+  },
+  {
+    "id": "getaway-shootout",
+    "title": "Getaway Shootout",
+    "description": "Race to the getaway vehicle in this chaotic physics-based game.",
+    "iframeUrl": "https://getaway-shootout.github.io/",
+    "thumbnail": "https://getaway-shootout.github.io/logo.png",
+    "category": "Action"
+  },
+  {
+    "id": "basketball-stars",
+    "title": "Basketball Stars",
+    "description": "Play 1-on-1 basketball matches and show your skills.",
+    "iframeUrl": "https://poki.com/en/g/basketball-stars",
+    "thumbnail": "https://img.vxdn.net/c/600/basketball-stars.webp",
+    "category": "Sports"
+  },
+  {
+    "id": "drift-hunters",
+    "title": "Drift Hunters",
+    "description": "The ultimate car drifting simulator. Tune your car and hit the tracks.",
+    "iframeUrl": "https://drift-hunters.io/game/",
+    "thumbnail": "https://drift-hunters.io/wp-content/uploads/2023/12/drift-hunters.png",
+    "category": "Sports"
+  }
+]
