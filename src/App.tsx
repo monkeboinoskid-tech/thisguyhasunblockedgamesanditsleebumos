@@ -8,8 +8,6 @@ import {
   TrendingUp, 
   Clock,
   Share2,
-  Newspaper,
-  MonitorPlay,
   Music,
   Circle,
   BarChart,
@@ -230,8 +228,6 @@ export default function App() {
                 <OSIcon icon={<Search className="w-5 h-5 text-white/50" />} label="Browser" onClick={() => handleNavigate('browser')} />
                 <OSIcon icon={<SettingsIcon className="w-5 h-5 text-white/50" />} label="Settings" onClick={() => handleNavigate('settings')} />
                 <OSIcon icon={<ShieldCheck className="w-5 h-5 text-white/50" />} label="Cloak" onClick={() => setShowDecoy(true)} />
-                <OSIcon icon={<Newspaper className="w-5 h-5 text-white/50" />} label="News" />
-                <OSIcon icon={<MonitorPlay className="w-5 h-5 text-white/50" />} label="Media" />
                 <OSIcon icon={<Music className="w-5 h-5 text-white/50" />} label="Music" onClick={() => handleNavigate('music')} />
               </div>
 
